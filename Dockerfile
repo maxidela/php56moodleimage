@@ -1,4 +1,5 @@
 FROM php:5.6-fpm
+
 MAINTAINER maxidela@gmail.com
 
 RUN apt-get -qqy update \
